@@ -24,5 +24,5 @@ Habilidades Blandas
 
 Contactos
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📫 Email: gastonschiaffino10@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/gaston-federico-schiaffino-5241861b4/
+### 📫 Email: gastonschiaffino10@gmail.com 
+### 🔗 LinkedIn: https://www.linkedin.com/in/gaston-federico-schiaffino-5241861b4/
